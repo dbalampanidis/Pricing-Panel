@@ -1,1 +1,1 @@
-# Pricing-Panel
+Simple responsive HTML page using Flexbox
