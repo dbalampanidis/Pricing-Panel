@@ -1,1 +1,1 @@
-Simple responsive HTML page using Flexbox
+Simple responsive HTML page using Flexbox.
