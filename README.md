@@ -1,1 +1,2 @@
-Simple responsive HTML page using Flexbox.
+Simple responsive HTML page using Flexbox.  
+[Live Demo](https://dbalampanidis.github.io/Pricing-Panel/)
